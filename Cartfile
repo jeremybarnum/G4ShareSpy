@@ -1,2 +1,2 @@
 github "jeremybarnum/LoopKit" "dev-absorb-fix"
-github "LoopKit/dexcom-share-client-swift" "carthage-recursive"
+github "jeremybarnum/dexcom-share-client-swift" "carthage-recursive-custom-loopkit"
