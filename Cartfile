@@ -1,2 +1,2 @@
-github "LoopKit/LoopKit" "dev"
-github "LoopKit/dexcom-share-client-swift" "dev"
+github "dm61/LoopKit" "carb-model-refactor"
+github "jeremybarnum/dexcom-share-client-swift" "nlc"
